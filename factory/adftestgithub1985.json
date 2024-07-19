@@ -1,0 +1,9 @@
+{
+	"name": "adftestgithub1985",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66d5a2d9-e03b-404a-b64d-278317d5c884",
+		"tenantId": "56b8fc6d-5bc2-46c8-bb76-f5b200b81771"
+	}
+}
